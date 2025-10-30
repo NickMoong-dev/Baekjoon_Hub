@@ -1,0 +1,7 @@
+# 최신 반영 후 시작(충돌 예방)
+git pull
+
+# 작업...
+git add .
+git commit -m "무엇을 변경했는지 간단히"
+git push
